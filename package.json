@@ -1,0 +1,20 @@
+{
+  "name": "ejercicio-cursobe-clase2",
+  "version": "1.0.0",
+  "description": "Ejercicio entregable para el curso de Back End de coderhouse de la clase 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LynxPardelle/ejercicio-cursoBE-clase2.git"
+  },
+  "author": "LynxPardelle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LynxPardelle/ejercicio-cursoBE-clase2/issues"
+  },
+  "homepage": "https://github.com/LynxPardelle/ejercicio-cursoBE-clase2#readme"
+}
